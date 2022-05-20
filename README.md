@@ -7,5 +7,5 @@ I have not been able to contact the original developer however under MIT license
 
 A 1.18.2 Fabric Mod that focuses on expanding content surrounding the mysterious Illagers in Minecraft!
 
-~~Please see the [installation](https://github.com/OhDricky/Illager-Expansion/wiki/Installation) page for information on how to install the mod.\
-![](https://i.postimg.cc/c1b45tRZ/OBp7tUT.png)~~ Been taken down once I have time I will create something.
+~~Please see the [installation](https://github.com/OhDricky/Illager-Expansion/wiki/Installation) page for information on how to install the mod.~~ Been taken down once I have time I will create something.\
+![](https://i.postimg.cc/c1b45tRZ/OBp7tUT.png)
