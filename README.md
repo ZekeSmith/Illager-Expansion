@@ -1,7 +1,7 @@
 # Illager Expansion
 Original credit goes to [OhDrincky](https://github.com/OhDricky) for this modpack.
 
-This modpack is a fork of a fork because I could not find any trace of the original modpack or infomation on why it was removed from practically everything. I plan to release .jar's and this repository will mostly function as an archive and hopefully be kept up to date for new minecraft versions.
+This modis a fork of a fork because I could not find any trace of the original modpack or infomation on why it was removed from practically everything. I plan to release .jar's and this repository will mostly function as an archive and hopefully be kept up to date for new minecraft versions.
 
 I have not been able to contact the original developer however under MIT license this fork should be following all the rules.
 
